@@ -20,6 +20,7 @@ namespace Palindromes.Models
 
 
     }
+
     public bool IsItPalindrome()
     {
       char[] wordArray = GetWordAsArray();
